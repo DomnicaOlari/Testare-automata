@@ -1,6 +1,6 @@
-from browser import Browser
-from pages.advanced_search_page import Advanced_search_page
-from pages.home_page import Home_page
+from curs.P3_BDD.browser import Browser
+from curs.P3_BDD.pages.advanced_search_page import Advanced_search_page
+from curs.P3_BDD.pages.home_page import Home_page
 
 def before_all(context):
 		context.browser = Browser()

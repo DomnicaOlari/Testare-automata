@@ -1,2 +1,0 @@
-https://github.com/gradulescuC/automation/blob/4b733b344d692ca45aac10fdcfd45848297623f7/Cursuri/Grupe/Automation19/P1_Introduction_to_programming/curs_06/helper_06_03.py#L1
-import curs_06
